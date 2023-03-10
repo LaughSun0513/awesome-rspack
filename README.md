@@ -1,0 +1,2 @@
+# awesome-rspack
+awesome-rspack
