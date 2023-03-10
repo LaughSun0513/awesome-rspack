@@ -6,7 +6,7 @@
 
 ## 举个🌰
 - rspack-react
-    Rspack + React + Typescript + Less/Sass/tailwindcss + json
-- rspack-vue
-    Rspack + Vue3 + Vue-router + Pinia + JSX
+    - Rspack + React + Typescript + Less/Sass/tailwindcss + json
+- rspack-vue3-jsx
+    - Rspack + Vue3 + Vue-router + Pinia + JSX
 
